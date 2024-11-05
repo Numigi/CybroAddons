@@ -32,7 +32,7 @@
     'website': "https://www.cybrosys.com",
     'license': 'LGPL-3',
     'images': ['static/description/banner.png'],
-    'depends': ['base'],
+    'depends': ['web'],
     'data': [
         'views/assets.xml',
     ],
